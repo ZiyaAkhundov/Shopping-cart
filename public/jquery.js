@@ -6,8 +6,7 @@ var products_array=[
     {imagesrc:"blob/main/images/Picture5.jpg",id:"P68",imageparagraph:" P68 Bluetooth Kablosuz Stereo Kulaklık - Siyah ",productfactory:"Universal" ,price:"56"},
     {imagesrc:"blob/main/images/Picture6.jpg",id:"Klasse",imageparagraph:" Klasse Tiger Longteng Huoyun Special Edition 480x400x4 Mm E-sports Oyuncu Mouse Pad Mousepad 1026953",productfactory:"Kl-asse Markt" ,price:"23"},
     {imagesrc:"blob/main/images/Picture7.jpg",id:"G3420",imageparagraph:" Pıxma G3420 Photoink Wifi Mürekkepli Megatank Yazıcı 8681987430459 ",productfactory:"Canon",price:"420"},
-    {imagesrc:"blob/main/images/Picture8.jpg",id:"FRNKTN20372",imageparagraph:" Erkek Saat Cüzdan Kemer Kartlık Hediye Seti 20-001 FRNKTN20372 ",productfactory:"Frank Martin" ,price:"30"}];
-    
+    {imagesrc:"blob/main/images/Picture8.jpg",id:"FRNKTN20372",imageparagraph:" Erkek Saat Cüzdan Kemer Kartlık Hediye Seti 20-001 FRNKTN20372 ",productfactory:"Frank Martin" ,price:"30"}]; 
     $(document).ready(function() {
     function productInsert(){
         $.each(products_array, function(key,val) {             
