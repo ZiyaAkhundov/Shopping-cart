@@ -1,12 +1,12 @@
 var products_array=[
-    {imagesrc:"images/Picture1.jpg",id:"g102",imageparagraph:" G G102 LIGHTSYNC RGB Aydınlatmalı 8.000 DPI Kablolu Oyuncu Mouse - Siyah G102 Lightsync ",productfactory:"logitech",price:"20"},
-    {imagesrc:"images/Picture2.jpg",id:"A400",imageparagraph:" A400 Ssd 240gb 500mb-350mb/s Sata3 Ssd (Sa400s37/240g) 210129779 ",productfactory:"Kingston" ,price:"10"},
-    {imagesrc:"images/Picture3.jpg",id:"Dtxm/256",imageparagraph:" Dtxm/256 256gb Usb3.2 Gen.1 Datatraveler Exodia M Usb Flash Bellek Dtxm 256 DTXM/256GB ",productfactory:"Kingston" ,price:"40"},
-    {imagesrc:"images/Picture4.jpg",id:"82h802rltx",imageparagraph:" Ideapad 3 82h802rltx I5 1135g7 8gb 256gb Ssd 15.6 Windows 11 Home Taşınabilir Bilgisayar 82H802RLTX",productfactory:"LENOVO" ,price:"1500"},
-    {imagesrc:"images/Picture5.jpg",id:"P68",imageparagraph:" P68 Bluetooth Kablosuz Stereo Kulaklık - Siyah ",productfactory:"Universal" ,price:"56"},
-    {imagesrc:"images/Picture6.jpg",id:"Klasse",imageparagraph:" Klasse Tiger Longteng Huoyun Special Edition 480x400x4 Mm E-sports Oyuncu Mouse Pad Mousepad 1026953",productfactory:"Kl-asse Markt" ,price:"23"},
-    {imagesrc:"images/Picture7.jpg",id:"G3420",imageparagraph:" Pıxma G3420 Photoink Wifi Mürekkepli Megatank Yazıcı 8681987430459 ",productfactory:"Canon",price:"420"},
-    {imagesrc:"images/Picture8.jpg",id:"FRNKTN20372",imageparagraph:" Erkek Saat Cüzdan Kemer Kartlık Hediye Seti 20-001 FRNKTN20372 ",productfactory:"Frank Martin" ,price:"30"}];
+    {imagesrc:"tree/main/images/Picture1.jpg",id:"g102",imageparagraph:" G G102 LIGHTSYNC RGB Aydınlatmalı 8.000 DPI Kablolu Oyuncu Mouse - Siyah G102 Lightsync ",productfactory:"logitech",price:"20"},
+    {imagesrc:"tree/main/images/Picture2.jpg",id:"A400",imageparagraph:" A400 Ssd 240gb 500mb-350mb/s Sata3 Ssd (Sa400s37/240g) 210129779 ",productfactory:"Kingston" ,price:"10"},
+    {imagesrc:"tree/main/images/Picture3.jpg",id:"Dtxm/256",imageparagraph:" Dtxm/256 256gb Usb3.2 Gen.1 Datatraveler Exodia M Usb Flash Bellek Dtxm 256 DTXM/256GB ",productfactory:"Kingston" ,price:"40"},
+    {imagesrc:"tree/main/images/Picture4.jpg",id:"82h802rltx",imageparagraph:" Ideapad 3 82h802rltx I5 1135g7 8gb 256gb Ssd 15.6 Windows 11 Home Taşınabilir Bilgisayar 82H802RLTX",productfactory:"LENOVO" ,price:"1500"},
+    {imagesrc:"tree/main/images/Picture5.jpg",id:"P68",imageparagraph:" P68 Bluetooth Kablosuz Stereo Kulaklık - Siyah ",productfactory:"Universal" ,price:"56"},
+    {imagesrc:"tree/main/images/Picture6.jpg",id:"Klasse",imageparagraph:" Klasse Tiger Longteng Huoyun Special Edition 480x400x4 Mm E-sports Oyuncu Mouse Pad Mousepad 1026953",productfactory:"Kl-asse Markt" ,price:"23"},
+    {imagesrc:"tree/main/images/Picture7.jpg",id:"G3420",imageparagraph:" Pıxma G3420 Photoink Wifi Mürekkepli Megatank Yazıcı 8681987430459 ",productfactory:"Canon",price:"420"},
+    {imagesrc:"tree/main/images/Picture8.jpg",id:"FRNKTN20372",imageparagraph:" Erkek Saat Cüzdan Kemer Kartlık Hediye Seti 20-001 FRNKTN20372 ",productfactory:"Frank Martin" ,price:"30"}];
     
     $(document).ready(function() {
     function productInsert(){
