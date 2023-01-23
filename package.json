@@ -1,0 +1,26 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "In this project using javascript, Jquery, Html, Css and Local Storage",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyaAkhundov/Shopping-cart.git"
+  },
+  "author": "Ziya Akhundov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiyaAkhundov/Shopping-cart/issues"
+  },
+  "homepage": "https://github.com/ZiyaAkhundov/Shopping-cart#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  }
+}
